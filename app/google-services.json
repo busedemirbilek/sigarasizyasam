@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237225987759",
+    "project_id": "sigarapp-4d253",
+    "storage_bucket": "sigarapp-4d253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237225987759:android:0fe0d5e8744e5ab62ace5a",
+        "android_client_info": {
+          "package_name": "com.example.sigarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237225987759-85tag0aqnbokst7rp0kn9ic7719v442m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sigarapp",
+            "certificate_hash": "86ebee2edcb0662269f266aaaad66a3e3fda561b"
+          }
+        },
+        {
+          "client_id": "237225987759-q3oll4knihmegmphqef2kkq95p8n5tu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsEwTmVhx1H5na1uwA3Rm8kRj8gy7BESQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237225987759-q3oll4knihmegmphqef2kkq95p8n5tu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

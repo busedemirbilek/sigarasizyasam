@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SİGARASIZ YAŞAM</string>
+    <string name="tab_text_1">Ana Sayfa</string>
+    <string name="tab_text_2">Sağlık</string>
+    <string name="tab_text_3">İletişim</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="create_new_account">YENİ HESAP OLUŞTUR</string>
+    <string name="i_have_account">HESABIM VAR</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="email">E-mail</string>
+    <string name="password">Şifre</string>
+    <string name="create_account">HESAP OLUŞTUR</string>
+    <string name="login_with_you_account">HESABINIZLA GİRİŞ YAPINIZ</string>
+    <string name="login">GİRİŞ YAP</string>
+    <string name="Logout">Çıkış Yap</string>
+    <string name="bilgiyazisi"> Sigara bağımlılarının büyük çoğunluğu sigarayı bırakmak ister yada bırakmayı düşünür. Eğer sizde bu kişilerden biriyseniz fakar bırakamayacağınızı düşünüyorsanız merak etmeyin sigarayı bırakabilirsiniz. </string>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".iletisim">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/icmem">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingStart="10dp"
+                android:paddingTop="20dp"
+                android:paddingEnd="10dp"
+                android:text="SİGARAYI BIRAKMA EVRESİNDE VÜCUTTA MEYDANA GELEN DEĞİŞİKLİKLİKLER NELER?"
+                android:textColor="@android:color/black"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="252dp"
+                android:layout_gravity="center"
+                android:src="@drawable/aaaaa" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" ✔️20 dakika sonra, kan basıncı ve nabız normale döner, el ve ayak dolaşımı düzelir."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:paddingTop="15dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" ✔️8 saat sonra, kan oksijen düzeyi normale döner, kalp krizi geçirme riski azalır."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingTop="15dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" ✔️24 saat sonra, vücut karbonmonoksitten arınır."
+                android:textColor="@android:color/black"
+                android:paddingTop="15dp"
+                android:paddingStart="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text=" ✔️48 saat sonra, kandaki nikotin düzeyi azalır, tat ve koku duyusu artar, peptik ülserli hastaların tedaviye verdikleri cevap artar."
+                android:textColor="@android:color/black"
+                android:paddingTop="15dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️72 saat sonra, hava yollarının gevşemesi sonucu nefes alıp verme rahatlar, solunum yolları fonksiyon görmeye başladığı için sekresyon miktarı artar, hava yolları kendi kendini temizlemeye çalışır. Enerji düzeyi artar."
+                android:textColor="@android:color/black"
+                android:paddingTop="15dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️2-12 hafta sonra, tüm vücuttaki dolaşım düzelir, solunum yolu enfeksiyonlarına yakalanma riski azalır, yürürken yorulma ve tıkanma daha az görülür."
+                android:textColor="@android:color/black"
+                android:paddingTop="15dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️3-9 ay sonra, öksürük, kısa aralıklarla nefes alıp verme ve wheezing yani hırıltılı ya da ıslık sesli soluk alıp verme gibi solunum yolu problemleri düzelir, akciğer fonksiyonları yüzde 5-10 oranında artar."
+                android:textColor="@android:color/black"
+                android:paddingTop="15dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️12 ay sonra, koroner kalp hastalığı riski yarı yarıya azalır."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingTop="15dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️12-36 ay sonra, mesane kanseri riski yüzde 50 azalır."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingTop="15dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️5 yıl sonra, kalp krizi geçirme riski, yemek borusu ve ağız boşluğu kanserleri riski yüzde 50 azalır."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingTop="15dp"
+                android:paddingEnd="10dp"
+                android:textSize="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="✔️10-15 yıl sonra, kalp krizi geçirme riski hiç içmeyenlerle aynı seviyeye iner, akciğer kanseri riski sigara içenlere göre yüzde 50 azalır."
+                android:textColor="@android:color/black"
+                android:paddingStart="10dp"
+                android:paddingTop="15dp"
+                android:paddingEnd="10dp"
+                android:paddingBottom="100dp"
+                android:textSize="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
