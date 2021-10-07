@@ -8,4 +8,5 @@ içtiği, ne kadar para harcadığı ve hayatından gittiği zamanı dakika/saat
 Uygulamamı Android Studio 4.1 sürümü üzerinde Java dili ile geliştirdim. Uygulamanın kullanıcı tarafından
 görüntülenebilmesi için bir internet bağlantısına ihtiyacı vardır. Android işletim
 sistemli tüm telefonlarda çalışabilir.
-![image-008](https://user-images.githubusercontent.com/80495953/136473464-defa5718-9964-4bdc-896c-e3e9d2fe24af.jpg)
+![image-002](https://user-images.githubusercontent.com/80495953/136473522-2f2bf03a-af0f-4108-a0d6-56f04dfcdc93.jpg)
+
