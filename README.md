@@ -1,5 +1,5 @@
 # sigarasizyasam
-Kullanıcıya sigarayı bırakma evresinde yardımcı bir uygulama geliştirdim. Kullanıcın kayıt
+Kullanıcın kayıt
 bilgileriyle uygulamaya giriş yapması ile birlikte kendisinden günde kaç adet sigara tükettiği, kaç yıldır tükettiği
 ve sigara paketinin ilgili para cinsinden değerini girmesi bekleniyor. Uygulama ana sayfasında kullanıcının kaç
 dakika/saat/gün sigara içmediği, bu süreçte kazandığı hayatı, parayı, kazandırdığı ağaç ve içilmeyen sigara
